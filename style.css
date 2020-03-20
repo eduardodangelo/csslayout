@@ -1,6 +1,8 @@
 body {
   margin: auto 0;
   font-family: arial;
+  height: 100%;
+
 } 
 
 .zone {
@@ -70,15 +72,18 @@ a {
 /* COVER */
 
 .container {
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 50vh;
+ 
 }
   
 
 .cover {
   width: 30rem;
+  padding: 80px;
+  padding-bottom: 30px;
   
 }
 
