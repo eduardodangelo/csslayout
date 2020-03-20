@@ -1,7 +1,7 @@
 body {
   margin: auto 0;
   font-family: arial;
-}
+} 
 
 .zone {
   /*padding: 30px 50px;
@@ -73,12 +73,13 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
   height: 50vh;
 }
+  
 
 .cover {
   width: 30rem;
+  
 }
 
 /* GRID */
